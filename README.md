@@ -2,6 +2,8 @@
 
 This repository is the official implementation of \textbf{Mitigating Overestimation in Offline Reinforcement Learning via One-Class Classification}. 
 
+This repository is another version of our repository. There're some modifications - theoretical basics, so update rule is changed and some anomaly models are included.
+
 The implementation is based on [rlkit](https://github.com/rail-berkeley/rlkit)
 
 ## Requirements
