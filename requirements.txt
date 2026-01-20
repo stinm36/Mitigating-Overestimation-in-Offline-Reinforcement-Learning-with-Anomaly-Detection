@@ -1,0 +1,17 @@
+datetime
+-e .
+
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch==1.13.1+cu117
+--extra-index-url https://download.pytorch.org/whl/cu117
+torchvision==0.14.1+cu117
+--extra-index-url https://download.pytorch.org/whl/cu117
+torchaudio==0.13.1
+
+tensorboard
+python-dateutil
+matplotlib
+gtimer
+cython<3
+mujoco-py<2.2,>=2.1
+gym==0.23.1
